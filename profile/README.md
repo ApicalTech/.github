@@ -1,4 +1,4 @@
-**Apical Automate** 🚀
+# Apical Automate 🚀
 
 Welcome to Apical Automate's GitHub! We specialize in developing cutting-edge AI-based applications, with a strong focus on the Fintech industry and customized ERP solutions for SMEs and enterprises.
 
